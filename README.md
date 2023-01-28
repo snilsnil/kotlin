@@ -1,5 +1,5 @@
 # Kotlin
-'Do it kotlin programming'책을 보며 공부
+'Do it kotlin programming'책을 보며 kotlin 공부
 
  ## 일수
  - 1일차(23.01.17): 2-2 변수와 자료형 까지(p.68)
